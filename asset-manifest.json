@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gagarinspaceman/gagarinspaceman.travel.git.io.git/static/css/main.7b9d8008.css",
-    "main.js": "/gagarinspaceman/gagarinspaceman.travel.git.io.git/static/js/main.03298571.js",
-    "index.html": "/gagarinspaceman/gagarinspaceman.travel.git.io.git/index.html",
-    "main.7b9d8008.css.map": "/gagarinspaceman/gagarinspaceman.travel.git.io.git/static/css/main.7b9d8008.css.map",
-    "main.03298571.js.map": "/gagarinspaceman/gagarinspaceman.travel.git.io.git/static/js/main.03298571.js.map"
+    "main.css": "/gagarinspaceman.travel.git.io/static/css/main.7b9d8008.css",
+    "main.js": "/gagarinspaceman.travel.git.io/static/js/main.54f9d6ea.js",
+    "index.html": "/gagarinspaceman.travel.git.io/index.html",
+    "main.7b9d8008.css.map": "/gagarinspaceman.travel.git.io/static/css/main.7b9d8008.css.map",
+    "main.54f9d6ea.js.map": "/gagarinspaceman.travel.git.io/static/js/main.54f9d6ea.js.map"
   },
   "entrypoints": [
     "static/css/main.7b9d8008.css",
-    "static/js/main.03298571.js"
+    "static/js/main.54f9d6ea.js"
   ]
 }
