@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/gagarinspaceman/travel.git/static/css/main.7b9d8008.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/gagarinspaceman/travel.git/static/js/main.eabf6233.js",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/gagarinspaceman/travel.git/index.html",
+    "main.7b9d8008.css.map": "/git%20remote%20add%20origin%20https://github.com/gagarinspaceman/travel.git/static/css/main.7b9d8008.css.map",
+    "main.eabf6233.js.map": "/git%20remote%20add%20origin%20https://github.com/gagarinspaceman/travel.git/static/js/main.eabf6233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9d8008.css",
+    "static/js/main.eabf6233.js"
+  ]
+}
